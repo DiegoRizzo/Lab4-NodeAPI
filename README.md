@@ -4,3 +4,6 @@
 
 <h3>Descripción General</h3>
 <p>El objetivo de este laboratorio es desarrollar una API REST desde cero, utilizando Node.js y Express para gestionar una colección de datos. Se realizará el diseño e implementación de un CRUD completo para la creación de un API que se pueda consumir desde cualquier cliente. Además, se depurará un servidor HTTP nativo con errores.</p>
+
+<h3>Instrucciones para correr el programa</h3>
+<p>Placeholder</p>

@@ -46,11 +46,27 @@ app.get("/", (req, res) => {
         `<html>
         <h1>ENDPOINTS DISPONIBLES:</h1>
         <h3>GET:</h3>
+
         <ul>
-        <li>/canciones</li>
-        <li>/cancion/{id_usuario}</li>
+            <li>/canciones</li>
+            <li>/cancion/{id_cancion}</li>
         </ul>
-        <p> Para traer una cancion hay que agregar un uid en la busqueda</p>
+
+        <h3>POST:</h3>
+        <ul>
+            <li>Placeholder</li>
+        </ul>
+
+        <h3>DELETE:</h3>
+        <ul>
+            <li>Placeholder</li>
+        </ul>
+
+        <h3>PUT:</h3>
+        <ul>
+            <li>Placeholder</li>
+        </ul>
+        <p><u>Para traer una cancion hay que agregar un uid en la busqueda</u></p>
         </html>`
     );
 });
